@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /public
+/src/index.js
 .vscode
 /.pnp
 .pnp.js
